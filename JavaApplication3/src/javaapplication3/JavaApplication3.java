@@ -16,5 +16,6 @@ public class JavaApplication3 {
     public static void main(String[] args) {
         System.out.println("Hello Master");
         System.out.println("I am a branch impl");
+        System.out.println("fixed issue 1");
     }
 }
